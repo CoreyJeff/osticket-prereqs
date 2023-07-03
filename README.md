@@ -42,7 +42,7 @@ Step 1:Go to portal.azure.com(Account should be made already). On the home page 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 2:You should be in the resource groups tab. Now you need to click (Create new resource group). Under Subscription there should be a blank space to name youre group. Name it (RG-osTicket). And in the Region tab under it put (US West 3) because some reason when you put another region it doesnt show up in youre resource groups. Theres also anther trick to fix that.
+Step 2:You should be in the resource groups tab. Now you need to click (Create new resource group). Under Subscription there should be a blank space to name youre group. Name it (RG-osTicket). And in the Region tab under it put (US West 3) because some reason when you put another region it doesnt show up in youre resource groups. After that you should be set for the resource group now click (Review + Create)
 </p>
 <br />
 
@@ -50,6 +50,13 @@ Step 2:You should be in the resource groups tab. Now you need to click (Create n
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 3:Go back to the home page and head to the Virtual Machines tab. Once you are there click Create in the upper left corner. Then click Azure Virtual Machine. Under subcription you want to make the resource group the one you just made which is (RG-osTicket). There should be a option. Youre Virtual Machine name will be (VM-osTicket). 
+Region: US West 3
+Security Type: Standard
+Image: Windows 10 Pro, version 21H2 Gen2
+Size:(Min)2 vcpu 16 GiB memory
+Username: Labuser
+Create Password
+Check the box at the bottom and the Review + Create
 </p>
 <br />
