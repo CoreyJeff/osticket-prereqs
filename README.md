@@ -50,13 +50,6 @@ Step 2:You should be in the resource groups tab. Now you need to click (Create n
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 3:Go back to the home page and head to the Virtual Machines tab. Once you are there click Create in the upper left corner. Then click Azure Virtual Machine. Under subcription you want to make the resource group the one you just made which is (RG-osTicket). There should be a option. Youre Virtual Machine name will be (VM-osTicket). 
-Region: US West 3
-Security Type: Standard
-Image: Windows 10 Pro, version 21H2 Gen2
-Size:(Min)2 vcpu 16 GiB memory
-Username: Labuser
-Create Password
-Check the box at the bottom and the Review + Create
+Step 3:Go back to the home page and head to the Virtual Machines tab. Once you are there click Create in the upper left corner. Then click Azure Virtual Machine. Under subcription you want to make the resource group the one you just made which is (RG-osTicket). There should be a option. Youre Virtual Machine name will be (VM-osTicket). Region will stay (US West 3) Security Type change to Standard. Image (Windows 10 Pro, version 21H2) For size minumum should be (2 vcpu 16 GiB memory). Username is Labuser then create your own password. When youre finished check the box at the bottom and then Review + Create.
 </p>
 <br />
