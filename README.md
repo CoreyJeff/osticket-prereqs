@@ -22,10 +22,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
+- Step 1:Create Microsoft Azure Account
+- Step 2:Create A Resource Group In Microsoft Azure
+- Step 3:Add Vitual Network And Subnet To The Resource Group
+- Step 4:Install osTicket On The Virtual Machine
 - Item 5
 
 <h2>Installation Steps</h2>
