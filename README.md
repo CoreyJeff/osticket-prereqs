@@ -49,6 +49,12 @@ Step 2: Go back to the home page and head to the Virtual Machines tab. Once you 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 3: 
+Step 3: Go To Virtual Machines Tab and click the VM you just created. Copy the Public IP address and in youre search tab for windows at the bottom right corner search (Remote Desktop). After you click on it paste the IP and log in with the User and Pass you made in Step 2. When logged into the VM go to Internet Explorer and plug in this link( https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 ).
 </p>
 <br />
+
+<p>
+<img
+</p>
+<p>
+Download Section
