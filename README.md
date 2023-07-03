@@ -57,4 +57,5 @@ Step 3: Go To Virtual Machines Tab and click the VM you just created. Copy the P
 <img
 </p>
 <p>
-Download Section
+Download Section: First you want to open contol panel in the VM. Then go to programs. Under programs and features you want to click (Turn Windows features on or off). Scroll untill you find (Internet Installation Services) Check and expand the box and expand (World Wide Web Services and Application Development Features) Enable CGI and in Common HTTP Features check all the boxes. Next you want to Download and Install PHP Manager from the Google Drive link. Then Download and Install the (Rewrite Module) also. Next open file explorer and go to your C drive and you are going to make a new folder named (PHP). Go back to the Google Drive downloads and download ( https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=drive_link ) and if you get a message click download anyway and keep the file. Go back to file manager and go to the downloads folder and youre going to right click the download and extract all to the (PHP)folder you made in the C Drive
+
