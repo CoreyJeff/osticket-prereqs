@@ -65,7 +65,12 @@ Step 3: Go To Virtual Machines Tab and click the VM you just created. Copy the P
  
  <img src="https://github.com/CoreyJeff/osticket-prereqs/assets/138095936/210700ab-cfdb-4954-bd71-944f3d80c8f0"/>
 
- Next you want to Download and Install PHP Manager from the Google Drive link. Then Download and Install the (Rewrite Module) also. Next open file explorer and go to your C drive and you are going to make a new folder named (PHP). Go back to the Google Drive downloads and download ( https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=drive_link ) and if you get a message click download anyway and keep the file. Go back to file manager and go to the downloads folder and youre going to right click the download and Extract All to the (PHP)folder you made in the C Drive.
+ Next you want to Download and Install PHP Manager from the Google Drive link. Then Download and Install the (Rewrite Module) also. Next open file explorer and go to your C drive and you are going to make a new folder named (PHP).
+ 
+ <img src="https://github.com/CoreyJeff/osticket-prereqs/assets/138095936/33b058de-1122-4054-a016-9ce509b2c5de"/>
+
+ 
+ Go back to the Google Drive downloads and download ( https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=drive_link ) and if you get a message click download anyway and keep the file. Go back to file manager and go to the downloads folder and youre going to right click the download and Extract All to the (PHP)folder you made in the C Drive.
  
 <img src="https://github.com/CoreyJeff/osticket-prereqs/assets/138095936/49fcf19f-ee70-4300-898a-aa0880ca9b7a"/>
 
