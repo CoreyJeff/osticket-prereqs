@@ -116,7 +116,7 @@ Step 3: Go To Virtual Machines Tab and click the VM you just created. Copy the P
  <img src="https://github.com/CoreyJeff/osticket-prereqs/assets/138095936/f4118e2e-832a-450a-849a-94872997d7f7"/>
 
  
- And for cleanup you need to open file explorer again and go to C:\inetpub\wwwroot\osTicket and delete the setup folder. While youre in the file explorer still go to C:\inetpub\wwwroot\osTicket\include and right click ost-config.php go to properties then security and advanced and edit from Full Control to just Read & Execute and Read. Admin URL  ( http://localhost/osTicket/scp/login.php ) Creating Tickets URL  ( http://localhost/osTicket/ ) 
+ And for cleanup you need to open file explorer again and go to (C:\inetpub\wwwroot\osTicket) and delete the setup folder. While youre in the file explorer still go to C:\inetpub\wwwroot\osTicket\include and right click ost-config.php go to properties then security and advanced and edit from Full Control to just Read & Execute and Read. Admin URL  ( http://localhost/osTicket/scp/login.php ) Creating Tickets URL  ( http://localhost/osTicket/ ) 
 
 <img src="https://github.com/CoreyJeff/osticket-prereqs/assets/138095936/bee994e8-c358-4516-b8c4-be92de053e32"/>
 
