@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/osticket-prereqs/assets/138095936/98524ac3-5b2b-426d-a1ed-ce40ba4396a9"
 </p>
 <p>
 Step 1: From the home page click on Resouce Groups. You should be in the resource groups tab. Now you need to click (Create new resource group). Under Subscription there should be a blank space to name youre group. Name it (RG-osTicket). And in the Region tab under it put (US West 3) because some reason when you put another region it doesnt show up in youre resource groups. After that you should be set for the resource group now click (Review + Create)
