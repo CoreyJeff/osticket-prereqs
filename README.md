@@ -38,7 +38,8 @@ Step 1: From the home page click on Resouce Groups. You should be in the resourc
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/osticket-prereqs/assets/138095936/b5102b98-8602-4c89-8af9-44baa70c8b3b"
+"/>
 </p>
 <p>
 Step 2: Go back to the home page and head to the Virtual Machines tab. Once you are there click Create in the upper left corner. Then click Azure Virtual Machine. Under subcription you want to make the resource group the one you just made which is (RG-osTicket). There should be a option. Youre Virtual Machine name will be (VM-osTicket). Region will stay (US West 3) Security Type change to Standard. Image (Windows 10 Pro, version 21H2) For size minumum should be (2 vcpu 16 GiB memory). Username is Labuser then create your own password. When youre finished check the box at the bottom and then Review + Create.
