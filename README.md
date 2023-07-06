@@ -91,6 +91,31 @@ Step 3: Go To Virtual Machines Tab and click the VM you just created. Copy the P
 
  
  Open file explorer and go back to the (wwwroot) folder and click osTicket then (Include) and scroll until you find                      
- (ost-sampleconfig.php)Rename this to (ost-config.php). Right click and go to properties and then security. At the bottom of Security click advanced and disable inheiritance. You will get a popup and select Remove all permissions from this object. After this your going to click add to add permissions and select a principal. in the blank box type (everyone) Check Names and press OK. Then click Full control and Apply. Now we are going to setup osTicket in the browser. The System Settings and Admin User sections you can personalize yourself. But for the Database Settings section you are going to need to download and install (HeidiSQL) in the Google Drive link. Open HeidiSQL and create a new connection at the bottom left corner. Remember yore username is (root) and whatevr you made your password. Then simply click open and you should have a connection. Now you want to right click Unnamed and create new and name it osTicket. Back in the osTicket browser in Database settings under (MySQL Database) you want to name it osTicket. Lastly press Install Now and it should install osTicket. And for cleanup you need to open file explorer again and go to C:\inetpub\wwwroot\osTicket and delete the setup folder. While youre in the file explorer still go to C:\inetpub\wwwroot\osTicket\include and right click ost-config.php go to properties then security and advanced and edit from Full Control to just Read & Execute and Read. Admin URL  ( http://localhost/osTicket/scp/login.php ) Creating Tickets URL  ( http://localhost/osTicket/ ) 
+ (ost-sampleconfig.php)Rename this to (ost-config.php). Right click and go to properties and then security. At the bottom of Security click advanced and disable inheiritance. You will get a popup and select Remove all permissions from this object.
+ 
+ <img src="https://github.com/CoreyJeff/osticket-prereqs/assets/138095936/3e8775ba-90a3-4368-a0e3-0c492553b51a"/>
+
+ 
+ After this your going to click add to add permissions and select a principal. in the blank box type (everyone) Check Names and press OK. Then click Full control and Apply. Now we are going to setup osTicket in the browser. The System Settings and Admin User sections you can personalize yourself.
+ 
+<img src="https://github.com/CoreyJeff/osticket-prereqs/assets/138095936/1a048564-a0d4-4c3b-8a49-6bd13a59c19c"/>
+
+ 
+ But for the Database Settings section you are going to need to download and install (HeidiSQL) in the Google Drive link. Open HeidiSQL and create a new connection at the bottom left corner. Remember yore username is (root) and whatever you made your password. Then simply click open and you should have a connection. Now you want to right click Unnamed and create new and name it osTicket.
+ 
+<img src="https://github.com/CoreyJeff/osticket-prereqs/assets/138095936/86f509d5-3d41-41fc-bb78-e2f666067432"/>
+
+ 
+ Back in the osTicket browser in Database settings under (MySQL Database) you want to name it (osTicket). Lastly press Install Now and it should install osTicket.
+ 
+ <img src="https://github.com/CoreyJeff/osticket-prereqs/assets/138095936/f4118e2e-832a-450a-849a-94872997d7f7"/>
+
+ 
+ And for cleanup you need to open file explorer again and go to C:\inetpub\wwwroot\osTicket and delete the setup folder. While youre in the file explorer still go to C:\inetpub\wwwroot\osTicket\include and right click ost-config.php go to properties then security and advanced and edit from Full Control to just Read & Execute and Read. Admin URL  ( http://localhost/osTicket/scp/login.php ) Creating Tickets URL  ( http://localhost/osTicket/ ) 
+
+<img src="https://github.com/CoreyJeff/osticket-prereqs/assets/138095936/bee994e8-c358-4516-b8c4-be92de053e32"/>
+
+<img src="https://github.com/CoreyJeff/osticket-prereqs/assets/138095936/bc8bd39c-84b9-4ec1-8939-ea8509c1d148"/>
+
 
 
