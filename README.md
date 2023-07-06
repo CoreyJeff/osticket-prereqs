@@ -42,15 +42,16 @@ Step 1: From the home page click on Resouce Groups. You should be in the resourc
 "/>
 </p>
 <p>
-Step 2: Go back to the home page and head to the Virtual Machines tab. Once you are there click Create in the upper left corner. Then click Azure Virtual Machine. Under subcription you want to make the resource group the one you just made which is (RG-osTicket). There should be a option. Youre Virtual Machine name will be (VM-osTicket). Region will stay (US West 3) Security Type change to Standard. Image (Windows 10 Pro, version 21H2) For size minumum should be (2 vcpu 16 GiB memory). Username is Labuser then create your own password. When youre finished check the box at the bottom and then Review + Create.
+Step 2: Go back to the home page and head to the Virtual Machines tab. Once you are there click Create in the upper left corner. Then click Azure Virtual Machine. Under subcription you want to make the resource group the one you just made which is (RG-osTicket). There should be a option. Youre Virtual Machine name will be (VM-osTicket). Region will stay (US West 3) Security Type change to Standard. Image (Windows 10 Pro, version 21H2) For size minumum should be (2 vcpu 16 GiB memory). Username is Labuser then create your own password. When youre finished check the "I confirm" box at the bottom and then Review + Create.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/osticket-prereqs/assets/138095936/3096cf06-f613-4db2-bdd2-5b7a8bfd4c1b"
+"/>
 </p>
 <p>
-Step 3: Go To Virtual Machines Tab and click the VM you just created. Copy the Public IP address and in youre search tab for windows at the bottom right corner search (Remote Desktop). After you click on it paste the IP and log in with the User and Pass you made in Step 2. When logged into the VM go to Internet Explorer and plug in this link( https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 ).
+Step 3: Go To Virtual Machines Tab and click the VM you just created. Copy the Public IP address and in youre search tab for windows at the bottom left corner search (Remote Desktop). After you click on it paste the IP and log in with the User and Pass you made in Step 2. When logged into the VM go to Internet Explorer and plug in this link( https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 ).
 </p>
 <br />
 
